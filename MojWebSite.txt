@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="bs">
+<!DOCTYPE html>
+/* /index.html 200
+	
+ 	 
+
+
+<html lang="bs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>	prvi
+ 	 </title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {font-family: "Courier New", Courier, monospace; 
+            background-color: #fde2e4; 
+            color: #ff99cc; 
+            text-align: center; 
+            line-height: 1.6; }
+
+        h1 { font-size: 2em; 
+            margin-bottom: 10px; }
+
+        img {max-width: 100%; 
+            margin: 10px 0;}
+
+        table { width: 80%; 
+            margin: 20px auto; 
+            border-collapse: }
+
+        table, th, td { border: 1px solid #ff99cc; }
+
+        
+
+
+  
+
+        a { color: #b34d4d; }
+
+        a:hover {text-decoration: underline; }
+			
+		
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 30px; 
+  margin-right: 50px; }
+
+					
+			
+			
+    </style>
+</head>
+<body>
+    <header>
+        <h1>⋆ ˚｡⋆౨ৎ˚  moj modni blog  ˚ ౨ৎ⋆｡˚⋆  </h1>
+        <p>Kolekcija modnih izgleda,kao i modni savjeti.</p>
+    </header>
+    
+    <main>
+            <h2>Novi outfiti</h2>
+
+           
+                <img src="https://i.pinimg.com/236x/7d/38/00/7d3800c38eda093213285441d8cc9dec.jpg" >
+				 <img src=https://i.pinimg.com/236x/72/19/77/7219774a0d5a3b87eb88423d8e02da43.jpg>
+				 <img src=https://i.pinimg.com/236x/2c/2d/77/2c2d77b6360f76a234d543a66f561eb4.jpg>
+				 <img src=https://i.pinimg.com/236x/f7/45/62/f7456263574227dd609460dd9ec2941b.jpg>
+                
+            </div>
+			
+            
+                <img src=https://i.pinimg.com/236x/3e/70/2b/3e702b699e8d28bc12f93dc6865e2de2.jpg>
+				<img src=https://i.pinimg.com/236x/4b/84/85/4b84851c1b7e435a2188ed9edc6a3ae8.jpg>
+				<img src=https://i.pinimg.com/236x/b5/7b/5c/b57b5cd6afbe776afab449205a8613f4.jpg>
+                <img src=https://i.pinimg.com/236x/2d/e5/b1/2de5b1ba0bde0580e3685e30d1b2bd02.jpg>
+			
+			
+            </div>
+
+            <img src=https://i.pinimg.com/236x/10/8f/04/108f04b78dbd3ded10af4b8c3c636a4b.jpg>
+			<img src=https://i.pinimg.com/236x/eb/e0/e3/ebe0e39038e2dc32836a39b77dd7194d.jpg>
+			<img src=https://i.pinimg.com/236x/d2/b4/27/d2b427bb0ea0a301055e05b31468a562.jpg>
+			<img src=https://i.pinimg.com/236x/93/25/49/93254918e0f9f84700712ef38ff49788.jpg>
+			
+			</div>
+			
+			
+			
+			 <img src=https://i.pinimg.com/236x/3b/7d/de/3b7ddecc8cb3603414844509e610897b.jpg>
+			<img src=https://i.pinimg.com/236x/96/ac/65/96ac65fe8a5317874a500d5bb0b75a8d.jpg>
+			<img src=https://i.pinimg.com/236x/89/2f/71/892f710424a8bfdc4f5f44504dd8314c.jpg>
+			<img src=https://i.pinimg.com/236x/73/82/05/738205ba558b4b7d5cee543e78ee7701.jpg>
+			
+			</div>
+			
+			
+			 <img src=https://i.pinimg.com/236x/ad/7f/c4/ad7fc4b7e8cfc819bd133265e82bfc4d.jpg>
+			<img src=https://i.pinimg.com/236x/e2/e3/df/e2e3df8bc805cd1f9c1442519d1faf7a.jpg>
+			<img src=https://i.pinimg.com/236x/87/7d/16/877d1664dd0b493c5dfcb085e35854f4.jpg>
+			<img src=https://i.pinimg.com/236x/d0/3a/8e/d03a8e0eddacdd97b0932c253481d966.jpg>
+			
+			</div>
+			
+			
+			
+
+        </section>
+		
+		<section>
+
+       
+            <h2>Stilske Teme</h2>
+               <p>Moja opsesija,što se tiče hlača su široke ili trapez,mislim da lijepo naglašavaju figuru.Ovaj stil pruža elegantan izgled ali i prilagodljivost, čineći ih pogodnima za različite prigode. Nosite ih s visokim petama kako biste naglasili siluetu, kombinirajte ih sa užom majicom za izbalansirani izgled.Važno je paziti na duljinu hlača, obično do poda ili malo ispod gležnjeva. 
+			   Ukratko, trapez hlače pružaju zgled koji se lako prilagođava vašem osobnom stilu.</p>
+            
+                <p> Najdraže su mi suknje, koje dodaju ženstveni dodir svakom outfitu.Bez obzira na duljinu ili kroj, suknjice su prilagodljiv komad koji možete nositi u različitim situacijama.Kombinirajte ih s bluzama, košuljama ili majicama, ovisno o prigodi.
+			   Za formalnije prigode, odaberite suknje od kvalitetnih materijala poput svile ili pamuka, dok za ležernije trenutke možete eksperimentirati.</p>
+				
+                <p> Materijali igraju ključnu ulogu u definiranju stila i dojma odjeće. Koža,klasika u visokoj modi, pruža rubni i sofisticirani izgled.Kožne jakne su uvijek u modi i pridonese dozu stava i drskosti.Samo pazite da ne pretjerate.Pored što pridonosi ukupnom dojmu izgleda,važno je birati nama pogodljive materijale.Ne podnosim vunu,tako da zimskim mjescima preživljavam u slojevima.Posebno mjesto u mom srcu ima svila.Nježnost i fluidnost svile pružaju osjećaj luksuza, čineći je savršenim izborom za formalnije prigode.</p>
+				
+                <p> Boje igraju ključnu ulogu u stvaranju  modnih kombinacija. 
+				Kada volite ženstvene i svjetlije boje kao ja, postoji nekoliko metoda kombiniranja boja koje mogu dodati harmonij vašem izgledu.
+				<ul>
+				
+				<li> ❥ Prilagodba boja uz ten kože.</li>
+				<li> ❥ Svijetlije boje - hladnim tonovima kože,topli tonovi - tople nijanse.</li>
+                <li> ❥ Zlatni ili srebrni nakit po ovom pravilu.</li>
+				<li> ❥ Nakit kao ključni detalj:</li>
+				<li> ❥ Eksperimentiranje s stilom:  </li>
+                </ul>
+
+        </section>
+		
+		<section>
+
+            <h2>KUPUJTE IZGLED!</h2>
+            <p>
+			<a href=https://www.bershka.com/ba/page/thedreamers_woman.html>Posjetite radnju</a>
+			</p>
+			<p>
+			<a href=https://www.yesstyle.com/en/women-fashion.html>Posjetite radnju</a>
+			</p>
+			<p>
+			<a href=https://www.hm.com/ba/>Posjetite radnju</a>
+			</p>
+			
+			</section>
+			
+			<h2> Obična crna majica: </h2>
+            <table>
+                <tr>
+                    <th>Product</th>
+                    <th>Price</th>
+                </tr>
+				
+                <tr>
+                    <td>Bershka </td>
+                    <td>£17.99</td>
+                </tr>
+				
+				<tr>
+                    <td>H&M </td>
+                    <td>£28,97</td>
+                </tr>
+				
+				<tr>
+                    <td>Yesstyle </td>
+                    <td>£12,09 </td>
+                </tr>
+				
+			   </table>
+			   
+			   
+		<footer>
+        <h1>Kontaktirajte nas</h1>
+        <p>Slobodno nas kontaktirajte!</p>
+        <p>Email: lejllaherceg@gmail.com</p>
+        <p>Telefon:+387 60 32 20 36</p>
+    </footer>
+			   
+			    
+			  
+			   
+			   
+			   
+        </section>
+
+        
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
